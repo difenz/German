@@ -26,7 +26,6 @@ I am a Junior Frontend Developer from Russia, Krasnodar.
 </div align="center" >
 <img src="https://komarev.com/ghpvc/?username=difenz&style=flat-square&color=blue" alt=""/>
 </div>
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=difenz&hide_border=true)](https://git.io/streak-stats)
