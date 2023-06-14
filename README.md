@@ -1,6 +1,6 @@
 <div align="center" id="badges">
   <a href="https://germannovikov.ru">
-    <img src="https://img.shields.io/badge/myWebsite-blue?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=web&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://t.me/germannovikov">
     <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
