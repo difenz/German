@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img align="center" src="https://komarev.com/ghpvc/?username=difenz&style=flat-square&color=blue" alt=""/>
