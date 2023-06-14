@@ -8,8 +8,8 @@
   <a href="https://www.behance.net/herasimuss">
     <img src="https://img.shields.io/badge/behance-black?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
-</div>
 <img align="center" src="https://komarev.com/ghpvc/?username=difenz&style=flat-square&color=blue" alt=""/>
+</div>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
