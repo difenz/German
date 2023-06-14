@@ -8,7 +8,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-difenz-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - 
-<div align="center" id="badges">
+<div id="badges">
   <a href="https://germannovikov.ru">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=web&logoColor=white" alt="Website Badge"/>
   </a>
