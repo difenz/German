@@ -29,3 +29,6 @@ I am a Junior Frontend Developer from Russia, Krasnodar.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difenz)](https://github.com/difenz/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/difenz/badges/large)](https://www.codewars.com/users/difenz)   
+
+
