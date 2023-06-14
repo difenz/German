@@ -1,5 +1,10 @@
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ### :woman_technologist: About Me :
-I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Krasnodar.
+I am a Junior Frontend Developer from Russia, Krasnodar.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and design for building web applications and designs.
 
 - :seedling: Exploring Technical Content Writing.
@@ -7,7 +12,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: Most of the time, I solve problems for TABAK123 & TAB-TAB.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-difenz-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-- 
+
 <div id="badges">
   <a href="https://germannovikov.ru">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=web&logoColor=white" alt="Website Badge"/>
@@ -21,10 +26,6 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 </div align="center" >
 <img src="https://komarev.com/ghpvc/?username=difenz&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 ---
 
 ### :fire: My Stats :
