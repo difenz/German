@@ -1,11 +1,11 @@
 <div align="center" id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://germannovikov.ru">
+    <img src="https://img.shields.io/badge/web-blue?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://t.me/germannovikov">
     <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://www.behance.net/herasimuss)">
+  <a href="https://www.behance.net/herasimuss">
     <img src="https://img.shields.io/badge/behance-black?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
